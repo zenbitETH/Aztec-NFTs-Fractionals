@@ -1,0 +1,29 @@
+{
+    "name": "Rescue Rope Lv. 1",
+    "description": "Made out of hemp strings, this old but durable rope will help you to descend into Temple deeps ",
+    "animation_url": "ipfs://ipfs/QmQjX2F3qBgnfpr77KVtwRK74UASMHBJARZ5oFcbTDsJX4/animation.mp4",
+    "image": "ipfs://ipfs/QmQjX2F3qBgnfpr77KVtwRK74UASMHBJARZ5oFcbTDsJX4/image.gif",
+    "external_url": "https://app.rarible.com/token/0xd07dc4262bcdbf85190c01c996b4c06a461d2430:84901",
+    "attributes": [
+    {
+    "key": "Card Number",
+    "trait_type": "Card Number",
+    "value": "003"
+    },
+    {
+    "key": "Collection",
+    "trait_type": "Collection",
+    "value": "Aztec"
+    },
+    {
+    "key": "Rooms down",
+    "trait_type": "Rooms down",
+    "value": "1"
+    },
+    {
+    "key": "Level",
+    "trait_type": "Level",
+    "value": "1"
+    }
+    ]
+    }

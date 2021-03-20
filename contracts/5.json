@@ -1,0 +1,29 @@
+{
+    "name": "Torn Map Lv. 1",
+    "description": "A piece of the map that will reveal the available rooms in the temple. Where the rest of the map should be? ",
+    "animation_url": "ipfs://ipfs/QmUJkYqwb8Qi3zM9MJMtCBs3JcYGFE523Myjg81Vwkzg2T/animation.mp4",
+    "image": "ipfs://ipfs/QmUJkYqwb8Qi3zM9MJMtCBs3JcYGFE523Myjg81Vwkzg2T/image.gif",
+    "external_url": "https://app.rarible.com/token/0xd07dc4262bcdbf85190c01c996b4c06a461d2430:85509",
+    "attributes": [
+    {
+    "key": "Card Number",
+    "trait_type": "Card Number",
+    "value": "006"
+    },
+    {
+    "key": "Collection",
+    "trait_type": "Collection",
+    "value": "Aztec"
+    },
+    {
+    "key": "Reveal map",
+    "trait_type": "Reveal map",
+    "value": "Temple entrance"
+    },
+    {
+    "key": "Reveal treasures",
+    "trait_type": "Reveal treasures",
+    "value": "$TEST chest "
+    }
+    ]
+    }

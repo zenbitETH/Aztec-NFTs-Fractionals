@@ -1,0 +1,29 @@
+{
+    "name": "Old Ladder Lv. 1",
+    "description": "Use this wodden ladder to reach higher places in the Greater Temple but don't try to climb too fast, the fall will certaintly hurt",
+    "animation_url": "ipfs://ipfs/QmX7HsxhyKQVZQ5gLMRUJ5x5f9AcCauP3WZ2UNaEoSMnun/animation.mp4",
+    "image": "ipfs://ipfs/QmX7HsxhyKQVZQ5gLMRUJ5x5f9AcCauP3WZ2UNaEoSMnun/image.gif",
+    "external_url": "https://app.rarible.com/token/0xd07dc4262bcdbf85190c01c996b4c06a461d2430:84898",
+    "attributes": [
+    {
+    "key": "Card Number",
+    "trait_type": "Card Number",
+    "value": "002"
+    },
+    {
+    "key": "Collection",
+    "trait_type": "Collection",
+    "value": "Aztec"
+    },
+    {
+    "key": "Level",
+    "trait_type": "Level",
+    "value": "1"
+    },
+    {
+    "key": "Rooms up ",
+    "trait_type": "Rooms up ",
+    "value": "1"
+    }
+    ]
+    }

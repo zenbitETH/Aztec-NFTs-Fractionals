@@ -1,0 +1,34 @@
+{
+    "name": "Aztec Torch Lv. 1",
+    "description": "Light dark rooms or burn things with this ancient torch made out of wood and carved stone",
+    "animation_url": "ipfs://ipfs/QmXddQnfqpGqM5BcduZXjR6Yc1u7QmMmRukiHqMqsDmqXH/animation.mp4",
+    "image": "ipfs://ipfs/QmXddQnfqpGqM5BcduZXjR6Yc1u7QmMmRukiHqMqsDmqXH/image.gif",
+    "external_url": "https://app.rarible.com/token/0xd07dc4262bcdbf85190c01c996b4c06a461d2430:85491",
+    "attributes": [
+    {
+    "key": "Card Number",
+    "trait_type": "Card Number",
+    "value": "004"
+    },
+    {
+    "key": "Collection",
+    "trait_type": "Collection",
+    "value": "Aztec"
+    },
+    {
+    "key": "Light rooms",
+    "trait_type": "Light rooms",
+    "value": "1"
+    },
+    {
+    "key": "Burn things",
+    "trait_type": "Burn things",
+    "value": "3"
+    },
+    {
+    "key": "Level",
+    "trait_type": "Level",
+    "value": "1"
+    }
+    ]
+    }
