@@ -1,31 +1,29 @@
 {
-"posts": [
+  "0": { "name": "Aztec Treasure Lv.1",
+"description": "Huitzilopochtli's wrath will fall on you if you don't pass the $ TEST and claim the treasure. Once detected in your wallet, you will be able to claim the $TEST units stored inside Aztec Temple's chests. Each address only can claim chest rewards once.\n\n***Once purchased unlocks link to the Aztec 007 Aztec Treasure original render (1080x1920 .avi file, without sound) and grants Tlatoani role in Aztec server on Discord. Role is removed if sold and transferred to the next owner*** ",
+"animation_url": "ipfs://ipfs/QmUmmw5dG7oYCMmmKRqBuBnaS4ZA5wRjDYLbrApjsBNoPa/animation.mp4",
+"image": "ipfs://ipfs/QmUmmw5dG7oYCMmmKRqBuBnaS4ZA5wRjDYLbrApjsBNoPa/image.gif",
+"external_url": "https://app.rarible.com/token/0xd07dc4262bcdbf85190c01c996b4c06a461d2430:91019",
+"attributes": [
 {
-"id": 1,
-"title": "Post 1"
+"key": "Card Number",
+"trait_type": "Card Number",
+"value": "007"
 },
 {
-"id": 2,
-"title": "Post 2"
+"key": "Collection",
+"trait_type": "Collection",
+"value": "Aztec"
 },
 {
-"id": 3,
-"title": "Post 3"
-}
-],
-"comments": [
-{
-"id": 1,
-"body": "some comment",
-"postId": 1
+"key": "Claim Tokens:",
+"trait_type": "Claim Tokens:",
+"value": "$TEST"
 },
 {
-"id": 2,
-"body": "some comment",
-"postId": 1
+"key": "Multiplier",
+"trait_type": "Multiplier",
+"value": "x1"
 }
-],
-"profile": {
-"name": "typicode"
-}
+]}
 }
