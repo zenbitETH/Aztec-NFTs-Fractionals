@@ -6,12 +6,13 @@ import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 import "@openzeppelin/contracts/utils/Counters.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
-
 contract MyNFT is ERC721, Ownable {
     using Counters for Counters.Counter;
     Counters.Counter private _tokenIds;
 
-    constructor() public ERC721("AztecNFT", "AZTC") {}
+    // uint256 public constant MAX_NFT_SUPPLY = 16384;
+
+    constructor() ERC721("AztecNFT", "AZTC") {}
 
     function mintNFT(address recipient, string memory tokenURI)
         public onlyOwner
@@ -20,6 +21,7 @@ contract MyNFT is ERC721, Ownable {
         _tokenIds.increment();
 
         uint256 newItemId = _tokenIds.current();
+        // require(totalSupply() < MAX_NFT_SUPPLY, "Sale has already ended");
         _mint(recipient, newItemId);
         _setTokenURI(newItemId, tokenURI);
 
