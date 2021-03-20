@@ -3,27 +3,4 @@
 "description": "Put yourself these heavy duty boots to explore dangerous places, your Aztec adventure is about to begin.",
 "animation_url": "ipfs://ipfs/QmZdHmq1LmhZBcZ3uF6or8Wp9CrNV2eXN1U4bqVMksbxUK/animation.mp4",
 "image": "ipfs://ipfs/QmZdHmq1LmhZBcZ3uF6or8Wp9CrNV2eXN1U4bqVMksbxUK/image.gif",
-"external_url": "https://app.rarible.com/token/0xd07dc4262bcdbf85190c01c996b4c06a461d2430:77159",
-"attributes": [
-{
-"key": "Collection",
-"trait_type": "Collection",
-"value": "Aztec"
-},
-{
-"key": "Card Number",
-"trait_type": "Card Number",
-"value": "001"
-},
-{
-"key": "Level",
-"trait_type": "Level",
-"value": "1"
-},
-{
-"key": "Move",
-"trait_type": "Move",
-"value": "10"
-}
-]
 }
